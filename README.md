@@ -1,6 +1,6 @@
 # Sword and Helm
 
-Rápida descrição do objetivo de fazer esse projeto
+Fiz o modelo para poder testar minha habilidade e então exporta-lo para uma game engine
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
